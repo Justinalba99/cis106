@@ -28,5 +28,6 @@ semester: fall 23
 
 ## Question 6
 ![q6.1](q6.1.png)
+
 ## Challenge Question 
 ![q7](q7.1.png)
