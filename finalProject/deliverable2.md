@@ -7,14 +7,13 @@ semester: fall 23
 # Deliverable 2 Submission
 
 ## 1. What are the server hardware specifications (virtual machine settings)? 
-![Q!](../deliverable2/Ubuntu%20Server%20VM%20Settings.png)
+![Q!](img/../Screenshot%202023-12-20%20at%203.04.05%20PM.png)
 
 ## 2. What is Ubuntu server log in screen? 
-![Q2](../deliverable2/Ubuntu%20Server%20Log%20In%20Screen.png)
+![Q2](Screenshot%202023-12-20%20at%203.05.57%20PM.png)
 
 ## 3. What is the IP address of your Ubuntu Server Virtual Machine?
-* 127.0.0.1
-
+* 192.168.1.174
 ## 4. How do you enable the Ubuntu Firewall?
 * sudo ufw enable
 
