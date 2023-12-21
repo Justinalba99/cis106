@@ -1,0 +1,12 @@
+# What is GNU+Linux?
+is an open source operating system
+# 3 Reasons to use GNU+Linux:
+* Reason 1 open source operating system
+* Reason 2 customization and large community support
+* Reason 3 Free to use 
+# Other operating systems
+* **Microsoft Windows** is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft.![operating system logo] (https://rb.gy/7yig50) 
+* **macOS** is a series of proprietary graphical operating systems developed and marketed by Apple Inc.![operating system logo] (https://rb.gy/01exgu)
+* **FreeBSD** is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.![operating system logo] (https://rb.gy/mdxr8p)
+* **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England.![operating system logo] (https://rb.gy/12qrly)
+
